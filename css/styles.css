@@ -63,7 +63,7 @@ body {
     color: #404bbf;
 }
 
-.site-nav{
+.site-nav:not(:last-child){
     margin-right: 40px;
 }
 

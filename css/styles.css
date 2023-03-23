@@ -39,6 +39,8 @@ body {
 /* Header site */
 
 .container{
+    display: flex;
+    flex-direction: row;
     width: 1230px;
     padding-left: 15px;
     padding-right: 15px;

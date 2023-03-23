@@ -44,6 +44,7 @@ body {
     width: 1230px;
     padding-left: 15px;
     padding-right: 15px;
+    margin: 0 auto;
 }
 
 .header-site .link {

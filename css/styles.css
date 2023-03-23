@@ -46,6 +46,11 @@ body {
     margin: 0 auto;
 }
 
+.main-nav{
+    display: flex;
+}
+
+
 .header-site{
     display: flex;
     flex-direction: row;

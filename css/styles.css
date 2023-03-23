@@ -70,7 +70,6 @@ body {
     margin-right: 40px;
 }
 
-
 /* Header-wrap */
 .contacts {
     font-style: normal;
@@ -79,6 +78,10 @@ body {
 .header-wrap{
     display: flex;
     flex-direction: row;
+}
+
+.header-wrap .site-nav + .site.nav{
+    margin-left: 40px;
 }
 
 .header-wrap .link {

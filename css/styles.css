@@ -63,6 +63,11 @@ body {
     color: #404bbf;
 }
 
+.site-nav{
+    margin: 24px 40px 24px 76px;
+}
+
+
 /* Header-wrap */
 .contacts {
     font-style: normal;

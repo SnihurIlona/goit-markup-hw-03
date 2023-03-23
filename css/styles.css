@@ -45,7 +45,7 @@ body {
     margin: 0 auto;
 }
 
-.header-site .container{
+.header-site{
     display: flex;
     flex-direction: row;
 }
@@ -65,6 +65,11 @@ body {
 /* Header-wrap */
 .contacts {
     font-style: normal;
+}
+
+.header-wrap{
+    display: flex;
+    flex-direction: row;
 }
 
 .header-wrap .link {

@@ -104,8 +104,9 @@ body {
 }
 
 /* Section 1 caption */
-.background-dark {
+.section-info {
     background-color: #2E2F42;
+    text-align: center;
 }
 
 .caption {

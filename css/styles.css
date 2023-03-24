@@ -176,6 +176,10 @@ body {
     flex-direction: row;
 }
 
+.about-photo:not(:last-child){
+    margin-right: 24px;
+}
+
 
 /* Section 4 */
 .background-light {

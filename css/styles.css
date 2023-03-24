@@ -48,11 +48,11 @@ body {
     padding-right: 15px;
     margin: 0 auto;
     text-align: center;
-    align-items: center;
 }
 
 .main-nav{
     display: flex;
+    align-items: center;
 }
 
 

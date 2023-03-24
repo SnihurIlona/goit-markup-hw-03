@@ -41,15 +41,12 @@ body {
 /* Header site */
 
 .container{
+    display: flex;
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
     text-align: center;
-}
-
-.container nav, .container address{
-    display: flex;
 }
 
 .main-nav{

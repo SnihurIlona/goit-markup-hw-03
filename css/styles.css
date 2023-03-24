@@ -130,6 +130,10 @@ body {
         margin-bottom: 8px;
 }
 
+.subtitle :not(:last-child){
+    margin-right: 24px;
+}
+
 .section-features{
     display: flex;
     flex-direction: row;

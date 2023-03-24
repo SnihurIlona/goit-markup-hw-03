@@ -216,7 +216,6 @@ body {
 }
 
 .team-list {
-    margin-bottom: 32px;
     background-color: #FFFFFF;
 }
 
@@ -225,6 +224,7 @@ body {
 }
 
 .subtitle{
+    margin-top: 32px;
     margin-bottom: 8px;
 }
 

@@ -50,6 +50,7 @@ body {
 
 .main-nav{
     display: flex;
+    flex-direction: row;
 }
 
 
@@ -82,7 +83,7 @@ body {
     font-style: normal;
 }
 
-.header-wrap .list{
+.header-wrap{
     display: flex;
     flex-direction: row;
 }

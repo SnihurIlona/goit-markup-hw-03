@@ -163,6 +163,12 @@ body {
         color: var(--title-text-color);
 }
 
+.photo{
+    display: flex;
+    flex-direction: row;
+}
+
+
 /* Section 4 */
 .background-light {
     background-color: #F4F4FD;

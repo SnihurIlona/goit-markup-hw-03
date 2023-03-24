@@ -111,6 +111,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         color: var(--caption-text-color);
+        background-color: #4D5AE5;
 }
 
 /* Section 2 subtitle */

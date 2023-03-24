@@ -48,6 +48,10 @@ body {
     text-align: center;
 }
 
+.container nav, .container address{
+    display: flex;
+}
+
 .main-nav{
     display: flex;
     align-items: center;
@@ -81,7 +85,6 @@ body {
 /* Header-wrap */
 .contacts {
     font-style: normal;
-    display: flex;
 }
 
 .header-wrap{

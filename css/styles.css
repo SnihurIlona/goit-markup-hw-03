@@ -81,6 +81,7 @@ body {
 /* Header-wrap */
 .contacts {
     font-style: normal;
+    display: flex;
 }
 
 .header-wrap{

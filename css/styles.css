@@ -44,16 +44,15 @@ body {
 .container{
     display: flex;
     width: 1158px;
-    height: 72px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
     text-align: center;
+    align-items: center;
 }
 
 .main-nav{
     display: flex;
-    align-items: center;
 }
 
 

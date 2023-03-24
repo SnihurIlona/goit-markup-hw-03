@@ -167,6 +167,8 @@ body {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: var(--title-text-color);
+        margin: 0;
+        padding: 0;
 }
 
 .photo{

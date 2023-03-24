@@ -167,6 +167,7 @@ body {
 /* Section 3 */
 
 .section-about{
+    padding-top: 0;
     padding-bottom: 120px;
 }
 

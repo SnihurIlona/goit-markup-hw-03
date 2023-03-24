@@ -226,6 +226,8 @@ body {
         letter-spacing: 0.04em;
         cursor: pointer;
         color: var(--caption-text-color);
+        width: 169px;
+        height: 56px;
 }
 
 .main-button:hover, .main-button:focus {

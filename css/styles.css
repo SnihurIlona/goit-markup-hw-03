@@ -197,6 +197,7 @@ body {
         letter-spacing: 0.04em;
         cursor: pointer;
         color: var(--caption-text-color);
+        text-align: center;
 }
 
 .main-button:hover, .main-button:focus {

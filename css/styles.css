@@ -273,6 +273,11 @@ body {
     color: #F4F4FD;
 }
 
+.footer-nav{
+    display: flex;
+    flex-direction: column;
+}
+
 /* Buttons */
 .main-button {
     background-color: #4D5AE5;

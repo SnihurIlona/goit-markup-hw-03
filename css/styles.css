@@ -116,7 +116,7 @@ body {
     margin-bottom: 48px;
     margin-left: auto;
     margin-right: auto;
-    width: 496px;
+    min-width: 496px;
     font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -172,7 +172,7 @@ body {
 }
 
 .secondary-caption {
-    width: 323px;
+    min-width: 323px;
     padding: 0;
         margin-top: 0;
         margin-bottom: 72px;
@@ -205,11 +205,11 @@ body {
 }
 
 .secondary-caption{
+    min-width: 162px;
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 72px;
-    width: 162px;
 }
 
 .team-images{
@@ -246,7 +246,7 @@ body {
 }
 
 .description {
-    width: 264px;
+    min-width: 264px;
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -256,7 +256,7 @@ body {
 }
 
 .footer-logo {
-    width: 44px;
+    min-width: 44px;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -267,7 +267,7 @@ body {
 }
 
 .second-col {
-    width: 71px;
+    min-width: 71px;
     letter-spacing: 0.03em;
         text-transform: uppercase;
     color: #F4F4FD;

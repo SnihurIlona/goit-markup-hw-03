@@ -88,9 +88,7 @@ body {
 .header-wrap{
     display: flex;
     flex-direction: row;
-    margin-left: 332px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    margin-left: auto;
 }
 
 .header-wrap .link {

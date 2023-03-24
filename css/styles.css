@@ -204,11 +204,16 @@ body {
 }
 
 .team-list {
+    margin-bottom: 32px;
     background-color: #FFFFFF;
 }
 
 .team-list:not(:last-child){
     margin-right: 24px;
+}
+
+.subtitle{
+    margin-bottom: 8px;
 }
 
 .position {

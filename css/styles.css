@@ -130,7 +130,7 @@ body {
         margin-bottom: 8px;
 }
 
-.subtitle :not(:last-child){
+.features-list :not(:last-child){
     margin-right: 24px;
 }
 

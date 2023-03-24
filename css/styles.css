@@ -110,7 +110,7 @@ body {
 
 .caption {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 48px;
     font-weight: 700;
         font-size: 56px;
         line-height: 1.07;

@@ -82,7 +82,7 @@ body {
     font-style: normal;
 }
 
-.header-wrap{
+.header-wrap .list{
     display: flex;
     flex-direction: row;
 }

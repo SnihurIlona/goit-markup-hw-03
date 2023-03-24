@@ -11,6 +11,11 @@ body {
 }
 
 /* Header */
+
+header{
+    background-color: #4D5AE5;
+}
+
 .header-logo {
     font-family: 'Raleway', sans-serif;
     letter-spacing: 0.03em;

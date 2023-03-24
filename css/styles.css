@@ -50,9 +50,12 @@ body {
     text-align: center;
 }
 
+.container nav, .container address{
+    align-items: center;
+}
+
 .main-nav{
     display: flex;
-    align-items: center;
 }
 
 

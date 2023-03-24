@@ -116,7 +116,7 @@ body {
     margin-bottom: 48px;
     margin-left: auto;
     margin-right: auto;
-    min-width: 496px;
+    width: 496px;
     font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -276,6 +276,7 @@ body {
 .footer-nav{
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
 }
 
 /* Buttons */

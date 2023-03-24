@@ -64,7 +64,7 @@ body {
 }
 
 .header-site .link {
-    display: flex;
+    display: block;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;

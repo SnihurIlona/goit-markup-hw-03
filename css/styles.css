@@ -190,6 +190,14 @@ body {
     background-color: #F4F4FD;
 }
 
+.secondary-caption{
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 72px;
+    width: 162px;
+}
+
 .team-images{
     display: flex;
     flex-direction: row;
@@ -197,6 +205,10 @@ body {
 
 .team-list {
     background-color: #FFFFFF;
+}
+
+.team-list:not(:last-child){
+    margin-right: 24px;
 }
 
 .position {

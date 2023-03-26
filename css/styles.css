@@ -327,6 +327,10 @@ p{
     background-color: #404BBF;
 }
 
+.button-list :not(:last-child){
+    margin-right: 24px;
+}
+
 /* Portfolio */
 .second-nav{
     display: flex;

@@ -294,6 +294,11 @@ body {
 .main-button:hover, .main-button:focus {
     background-color: #404BBF;
 }
+
+.section-button{
+    width: calc(100% - 24px) / 5;
+}
+
 .secondary-button {
     background-color: #F4F4FD;
     font-family: "Roboto",
@@ -304,7 +309,6 @@ body {
         letter-spacing: 0.04em;
         cursor: pointer;
         min-width: 116px;
-        width: calc(100% - 24px) / 5;
     color: #4D5AE5;
 }
 .secondary-button:hover, .secondary-button:focus {

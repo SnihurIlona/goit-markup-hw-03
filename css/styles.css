@@ -327,7 +327,7 @@ p{
     background-color: #404BBF;
 }
 
-.button-list :not(:last-child){
+.button-list:not(:last-child){
     margin-right: 24px;
 }
 

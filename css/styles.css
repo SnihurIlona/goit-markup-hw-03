@@ -28,6 +28,12 @@ p{
 }
 
 /* Header */
+
+.header{
+    border-bottom-width: 1px;
+    border-bottom-color: #E7E9FC;
+}
+
 .header-logo {
     font-family: 'Raleway', sans-serif;
     letter-spacing: 0.03em;

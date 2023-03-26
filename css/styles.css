@@ -311,6 +311,7 @@ p{
         color: var(--caption-text-color);
         width: 169px;
         height: 56px;
+        list-style: none;
 }
 
 .main-button:hover, .main-button:focus {
@@ -328,6 +329,7 @@ p{
         cursor: pointer;
         padding: 12px 24px;
     color: #4D5AE5;
+    list-style: none;
 }
 
 .secondary-button:not(:first-child) {

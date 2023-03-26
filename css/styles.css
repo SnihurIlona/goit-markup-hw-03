@@ -317,6 +317,11 @@ body {
     flex-wrap: wrap;
 }
 
+.button-nav{
+    display: flex;
+        align-items: center;
+}
+
 .main-features {
     font-weight: 500;
         font-size: 20px;

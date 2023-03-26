@@ -368,8 +368,8 @@ p{
     margin-bottom: 32px;
 }
 
-.photo-list:not(:last-child){
-    margin-right: 24px;
+.photo-list{
+    flex-basis: calc((100% - 24px) / 3);
 }
 
 

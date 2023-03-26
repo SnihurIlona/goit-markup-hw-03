@@ -217,6 +217,7 @@ body {
 
 .team-list {
     background-color: #FFFFFF;
+    margin-bottom: 32px;
 }
 
 .team-list:not(:last-child){
@@ -224,10 +225,7 @@ body {
 }
 
 .subtitle{
-    margin-top: 32px;
     margin-bottom: 8px;
-    min-width: 134px;
-
 }
 
 .position {
@@ -235,8 +233,6 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        margin-bottom: 32px;
-        min-width: 128px;
 }
 
 /* Footer */

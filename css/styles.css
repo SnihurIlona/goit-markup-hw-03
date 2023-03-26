@@ -226,6 +226,8 @@ body {
 .subtitle{
     margin-top: 32px;
     margin-bottom: 8px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .position {

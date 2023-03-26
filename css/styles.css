@@ -319,13 +319,10 @@ body {
     flex-wrap: wrap;
 }
 
-.section-button{
-    flex-basis: calc((100% - 24px) /5);
-}
-
 .button-nav{
     display: flex;
         align-items: center;
+        flex-basis: calc((100% - 24px) /5);
         margin: 96px 427px 72px 427px;
 }
 

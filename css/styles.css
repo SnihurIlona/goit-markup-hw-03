@@ -224,12 +224,9 @@ body {
     margin-right: 24px;
 }
 
-.subsection{
-    padding: 32px 65px 64px 65px;
-}
-
 .subtitle{
     margin-bottom: 8px;
+    text-align: center;
 }
 
 .position {
@@ -237,6 +234,7 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        text-align: center;
 }
 
 /* Footer */

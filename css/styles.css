@@ -332,7 +332,6 @@ p{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    flex-basis: calc((100% - 24px) /5);
 }
 
 .button-nav{

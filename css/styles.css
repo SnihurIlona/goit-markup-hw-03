@@ -388,15 +388,15 @@ p{
 
 .photo-item{
     margin-bottom: 32px;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #E7E9FC;
 }
 
 .photo-list{
     flex-basis: calc((100% - 24px) / 3);
     margin-bottom: 48px;
     box-shadow: #E7E9FC;
-    border-bottom-width: 1px;
-    border-bottom-style: dotted;
-    border-bottom-color: #E7E9FC;
 }
 
 

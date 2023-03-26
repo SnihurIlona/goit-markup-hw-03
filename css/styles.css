@@ -368,9 +368,7 @@ p{
     margin-bottom: 32px;
 }
 
-
-
-.work-images{
+.photo-list:not(:last-child){
     margin-right: 24px;
 }
 

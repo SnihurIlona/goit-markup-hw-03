@@ -226,8 +226,8 @@ body {
 .subtitle{
     margin-top: 32px;
     margin-bottom: 8px;
-    margin-right: auto;
-    margin-left: auto;
+    width: 134px;
+
 }
 
 .position {
@@ -236,8 +236,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
         margin-bottom: 32px;
-        margin-left: auto;
-        margin-right: auto;
+        width: 128px;
 }
 
 /* Footer */

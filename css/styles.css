@@ -344,6 +344,12 @@ p{
 }
 
 /* Portfolio */
+
+.section-portfolio{
+    padding-top: 96px;
+    padding-bottom: 120px;
+}
+
 .second-nav{
     display: flex;
     align-items: center;

@@ -319,6 +319,7 @@ p{
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
+        padding: 12px 24px;
     color: #4D5AE5;
 }
 

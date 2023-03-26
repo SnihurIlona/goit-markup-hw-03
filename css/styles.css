@@ -320,6 +320,7 @@ p{
         letter-spacing: 0.04em;
         cursor: pointer;
         min-width: 116px;
+        flex-basis: calc((100% - 24px) /5);
     color: #4D5AE5;
 }
 .secondary-button:hover, .secondary-button:focus {
@@ -337,7 +338,6 @@ p{
 .button-nav{
     display: flex;
         align-items: center;
-        flex-basis: calc((100% - 24px) /5);
         margin-top: 96px;
         margin-bottom: 72px;
         margin-left: auto;

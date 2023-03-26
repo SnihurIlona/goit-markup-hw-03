@@ -311,6 +311,12 @@ body {
 }
 
 /* Portfolio */
+.second-nav{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .main-features {
     font-weight: 500;
         font-size: 20px;

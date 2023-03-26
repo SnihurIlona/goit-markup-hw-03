@@ -295,10 +295,6 @@ body {
     background-color: #404BBF;
 }
 
-.section-button{
-    width: calc(100% - 24px) / 5;
-}
-
 .secondary-button {
     background-color: #F4F4FD;
     font-family: "Roboto",
@@ -326,6 +322,7 @@ body {
 .button-nav{
     display: flex;
         align-items: center;
+        flex-basis: calc((100% - 24px) /5);
         margin: 96px 427px 72px 427px;
 }
 

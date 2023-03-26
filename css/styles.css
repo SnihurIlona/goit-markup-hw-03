@@ -217,11 +217,14 @@ body {
 
 .team-list {
     background-color: #FFFFFF;
-    margin-bottom: 32px;
 }
 
 .team-list:not(:last-child){
     margin-right: 24px;
+}
+
+.photo-list{
+    margin-bottom: 32px;
 }
 
 .subtitle{

@@ -303,6 +303,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
+        min-width: 116px;
     color: #4D5AE5;
 }
 .secondary-button:hover, .secondary-button:focus {
@@ -323,12 +324,23 @@ body {
         margin: 96px 427px 72px 427px;
 }
 
-.secondary-button-all{
+.secondary-button-all {
+    background-color: #F4F4FD;
+    font-family: "Roboto",
+        sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
     min-width: 69px;
+    color: #4D5AE5;
 }
 
-.secondary-button{
-    min-width: 116px;
+.secondary-button-all:hover,
+.secondary-button-all:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .main-features {

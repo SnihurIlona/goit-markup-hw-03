@@ -10,6 +10,23 @@ body {
     background-color: #FFFFFF;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
 /* Header */
 .header-logo {
     font-family: 'Raleway', sans-serif;
@@ -110,7 +127,6 @@ body {
 }
 
 .caption {
-    margin-top: 0;
     margin-bottom: 48px;
     margin-left: auto;
     margin-right: auto;
@@ -136,7 +152,6 @@ body {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: var(--title-text-color);
-        margin-top: 0px;
         margin-bottom: 8px;
 }
 

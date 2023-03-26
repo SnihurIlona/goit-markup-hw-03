@@ -319,9 +319,17 @@ p{
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
-        min-width: 116px;
     color: #4D5AE5;
 }
+
+.secondary-button{
+    min-width: 69px;
+}
+
+.secondary-button:not(:first-child) {
+    min-width: 116px;
+}
+
 .secondary-button:hover, .secondary-button:focus {
     color: #FFFFFF;
     background-color: #404BBF;

@@ -320,6 +320,7 @@ body {
 .button-nav{
     display: flex;
         align-items: center;
+        flex-wrap: wrap;
         gap: 96px 427px 72px 427px;
 }
 

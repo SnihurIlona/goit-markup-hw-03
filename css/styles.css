@@ -168,7 +168,7 @@ p{
 
 .section-features{
     display: flex;
-    flex-direction: row;
+    gap: 24px;
 }
 
 .features {
@@ -333,6 +333,8 @@ p{
         padding: 12px 24px;
     color: #4D5AE5;
     list-style: none;
+    border: none;
+
 }
 
 .secondary-button:not(:first-child) {

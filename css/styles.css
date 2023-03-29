@@ -257,6 +257,8 @@ p{
 .team-info{
     padding-top: 32px;
     padding-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Footer */

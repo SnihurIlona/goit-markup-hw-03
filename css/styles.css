@@ -2,6 +2,7 @@
     --primary-text-color: #434455;
     --title-text-color: #2E2F42;
     --caption-text-color: #FFFFFF;
+    --border-portfolio-color: #E7E9FC;
 }
 
 body {
@@ -372,6 +373,9 @@ p{
     padding-bottom: 32px;
     padding-left: 16px; 
     padding-right: 54px;
+    border-right: 1px solid var(--border-portfolio-color);
+    border-bottom: 1px solid var(--border-portfolio-color);
+    border-left: 1px solid var(--border-portfolio-color);
 }
 
 .main-features {

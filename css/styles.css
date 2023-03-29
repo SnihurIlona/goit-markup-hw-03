@@ -263,6 +263,11 @@ p{
         margin-bottom: 32px;
 }
 
+.team-info{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
 /* Footer */
 
 .footer{

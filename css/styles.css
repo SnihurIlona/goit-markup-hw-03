@@ -329,7 +329,8 @@ p{
     color: #4D5AE5;
     list-style: none;
     border: none;
-
+    border: 1px solid #E7E9FC;
+        border-radius: 4px;
 }
 
 .secondary-button:not(:first-child) {

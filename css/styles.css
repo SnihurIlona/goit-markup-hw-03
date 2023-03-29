@@ -313,6 +313,8 @@ p{
         width: 169px;
         height: 56px;
         list-style: none;
+        border: none;
+        border-radius: 4px;
 }
 
 .main-button:hover, .main-button:focus {

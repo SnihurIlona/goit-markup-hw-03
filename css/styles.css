@@ -365,6 +365,7 @@ p{
         align-items: center;
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 72px;
 }
 
 .features-info{
@@ -392,10 +393,6 @@ p{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--primary-text-color);
-}
-
-.work-images{
-    margin: 0;
 }
 
 .photo-list{

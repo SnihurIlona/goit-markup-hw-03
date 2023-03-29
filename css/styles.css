@@ -394,6 +394,10 @@ p{
         color: var(--primary-text-color);
 }
 
+.work-images{
+    margin: 0;
+}
+
 .photo-list{
     margin-bottom: 48px;
 }

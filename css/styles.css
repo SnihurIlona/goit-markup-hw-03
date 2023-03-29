@@ -371,7 +371,7 @@ p{
     padding-top: 32px;
     padding-bottom: 32px;
     padding-left: 16px; 
-    padding-right: 54px;
+    padding-right: 16px;
     border-right: 1px solid var(--border-portfolio-color);
     border-bottom: 1px solid var(--border-portfolio-color);
     border-left: 1px solid var(--border-portfolio-color);

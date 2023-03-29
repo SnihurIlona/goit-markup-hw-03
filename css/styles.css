@@ -234,7 +234,6 @@ p{
 
 .team-images{
     display: flex;
-    flex-direction: row;
 }
 
 .team-list {
@@ -250,8 +249,6 @@ p{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: center;
-        margin-bottom: 32px;
 }
 
 .team-info{

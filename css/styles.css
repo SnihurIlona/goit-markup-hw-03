@@ -366,6 +366,7 @@ p{
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 72px;
+        justify-content: center;
 }
 
 .features-info{

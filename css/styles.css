@@ -357,6 +357,7 @@ p{
 .second-nav{
     display: flex;
     flex-wrap: wrap;
+    gap: 48px 24px;
 }
 
 .button-nav{
@@ -398,7 +399,4 @@ p{
     margin-bottom: 48px;
 }
 
-.photo-list:not(:last-child){
-    margin-right: 24px;
-}
 

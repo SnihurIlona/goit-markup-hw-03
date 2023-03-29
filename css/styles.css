@@ -209,7 +209,6 @@ p{
 
 .photo{
     display: flex;
-    flex-direction: row;
 }
 
 .about-photo:not(:last-child){

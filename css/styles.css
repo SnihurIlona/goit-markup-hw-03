@@ -396,8 +396,8 @@ p{
         color: var(--primary-text-color);
 }
 
-.photo-list{
-    margin-bottom: 48px;
+img{
+    max-width: auto;
+    max-height: auto;
 }
-
 
